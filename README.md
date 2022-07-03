@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=Lee%20ChangDae%20&fontSize=50&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=2&height=200&section=header&text=Welcome!!%20ChangDae's%20Github&fontSize=50&fontAlign=50&fontColor=f7f5f5)
 
-<div align=center><h1>📚 TECH STACKS</h1></div>
+<div align=center><h1> 🏴‍☠️TECH STACKS</h1></div>
 <div align=center>
  <h3> Commonly Using </h3>
   <img src="https://img.shields.io/badge/python-3776AB?styleflat-square&logo=python&logoColor=white"> 
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
  
- <h5> Email : lcd479@gmail.com </h5>
+ <h5> Email : <a href ="[mailto:lcd479@gmail.com]"target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> </a></h5>
  <h5> Blog : https://cdlee479.tistory.com/ </h5>
 
 <hr>
