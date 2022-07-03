@@ -10,8 +10,11 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
  
- <h5> Email : <a href ="mailto:lcd479@gmail.com"target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> </a></h5>
- <h5> Blog : https://cdlee479.tistory.com/ </h5>
+  <h3> Communication Me </h3>
+
+ <h5> <a href ="mailto:lcd479@gmail.com"target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  <a href ="https://cdlee479.tistory.com/"target="_blank"><img src="https://img.shields.io/badge/Tistory-121D33?style=flat-square&logo=Tistory&logoColor=white"/></a>
+
 
 <hr>
 <h3> Github Stats </h3> <br>
